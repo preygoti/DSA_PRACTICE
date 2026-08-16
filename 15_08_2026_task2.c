@@ -21,7 +21,7 @@ int main()
 
     int key_roll;
 
-    printf("\nenter the key roll no that you want to find in class:");
+    printf("\nenter the key roll no that you want  to find in class:");
     scanf("%d",&key_roll);
 
     int count=0;
