@@ -31,7 +31,7 @@ int main()
     switch (choice)
     {
     case 1:
-        printf("Enter the number that you want to add in Stack :");
+        printf("Enter the element that you want to add in Stack :");
         scanf("%d",&no);
         PUSH(no);  
     break;
